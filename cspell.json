@@ -1,0 +1,26 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [
+    "typescript",
+    "html",
+    "css",
+    "javascript",
+    "node",
+    "npm",
+    "git"
+  ],
+  "words": [
+    "CLIENTVAR",
+    "cuid",
+    "datasource",
+    "middlewares",
+    "NEXTAUTH",
+    "runtimes",
+    "sqlserver",
+    "trpc"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
