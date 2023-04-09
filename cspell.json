@@ -12,14 +12,19 @@
     "git"
   ],
   "words": [
+    "Authed",
     "CLIENTVAR",
     "cuid",
     "datasource",
+    "Mantine",
     "middlewares",
     "NEXTAUTH",
     "runtimes",
     "sqlserver",
-    "trpc"
+    "superjson",
+    "tailwindcss",
+    "trpc",
+    "typesafety"
   ],
   "ignoreWords": [],
   "import": []
